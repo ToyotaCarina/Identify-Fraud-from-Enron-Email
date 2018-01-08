@@ -1,0 +1,10 @@
+Resources used during project:
+1. https://www.technologyreview.com/s/515801/the-immortal-life-of-the-enron-e-mails/
+2. https://www.cs.cmu.edu/~enron/
+3. https://en.wikipedia.org/wiki/Enron_scandal
+4. https://en.wikipedia.org/wiki/Enron_Corpus
+5. Udacity "Into to Machine Learning" course
+6. http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+7. http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+8. http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+9. http://www.chioka.in/class-imbalance-problem/
